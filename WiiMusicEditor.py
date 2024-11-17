@@ -1702,7 +1702,7 @@ while True:
 					print("(#0) Back To Settings")
 					print("(#1) Replace Song and Score Files Seperatly: "+DefaultLoadSongScore)
 					print("(#2) Replace Song Warnings: "+DefaultWantToReplaceSong)
-					print("(#3) Warm User When Replacing Already Replaced Song: "+DefaultReplacingReplacedSong)
+					print("(#3) Warn User When Replacing Already Replaced Song: "+DefaultReplacingReplacedSong)
 					print("(#4) Use Auto Found Length and Tempo: "+DefaultUseAutoLengthTempo)
 					print("(#5) Replace Song Names After Adding Custom Song: "+DefaultReplaceSongNames)
 
